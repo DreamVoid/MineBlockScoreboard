@@ -1,0 +1,13 @@
+# Made for WarfareMC
+scoreboard: # Max 15 lines
+  title: '&b&lFACTIONS &7(&bI&7)'
+  lines:
+    - '&b&m--&r &fPersonal'
+    - '&b| &7Group: &b%luckperms_primary_group_name%'
+    - '&b| &7Balance: &e$&b%vault_eco_balance_formatted%'
+    - '&b&m--&r &fFactions'
+    - '&b| &7Faction: %factionsuuid_faction_name%'
+    - '&b&m--&r &fServer'
+    - '&b| &7Votes: &f%galistener_votes%'
+    - '&b| &7Online: &f%server_online%&8/&f%server_max_players%'
+    - '&b&m---------------------------'

@@ -1,0 +1,8 @@
+name: PAPIScoreboard
+main: com.sandeep.papiscoreboards.PAPIScoreboards
+author: Sunny#4704
+description: Scoreboard plugin that minimises refreshes and uses PAPI
+version: TEST4
+commands:
+  reloadscoreboard:
+    permission: papiscoreboard.reloadscoreboard
