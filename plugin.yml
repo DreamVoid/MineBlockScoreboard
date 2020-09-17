@@ -3,6 +3,7 @@ main: com.sandeep.papiscoreboards.PAPIScoreboards
 author: Sunny#4704, MineBlock Team.
 description: A MineBlock Scoreboard Spigot Plugin.
 version: 1.0
+softdepend: [PlaceholderAPI]
 commands:
   reloadscoreboard:
     permission: mineblock.permission.scoreboard
