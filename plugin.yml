@@ -1,8 +1,8 @@
-name: PAPIScoreboard
+name: MineBlockScoreboard
 main: com.sandeep.papiscoreboards.PAPIScoreboards
-author: Sunny#4704
-description: Scoreboard plugin that minimises refreshes and uses PAPI
-version: TEST4
+author: Sunny#4704, MineBlock Team.
+description: A MineBlock Scoreboard Spigot Plugin.
+version: 1.0
 commands:
   reloadscoreboard:
-    permission: papiscoreboard.reloadscoreboard
+    permission: mineblock.permission.scoreboard
